@@ -1,0 +1,8 @@
+streamlit
+transformers
+ctransformers
+librosa
+langchain
+pyyaml
+instructorembedding
+streamlit-mic-recorder
